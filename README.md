@@ -13,4 +13,6 @@ Anotações e testes de funcionalidades
 
 O objetivo é registrar minha evolução e servir como referência futura, além de ajudar outras pessoas que também estejam iniciando seus estudos em Dart.
 
+OBS: A loja do código você encontra na pasta 'bin/';
+
 ✨ Fique à vontade para explorar os arquivos, acompanhar meu progresso e, quem sabe, aprender junto comigo!
